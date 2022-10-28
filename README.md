@@ -7,4 +7,5 @@ It is focused on visualising data to explore how Netflix has expanded over the y
 The goal of this project is to practice creating and interpreting different types of visualizations using real world data. 
 ## Data sources:
 https://www.kaggle.com/shivamb/netflix-shows
+
 https://www.businessinsider.com/netflix-growth-comes-from-international-markets-2019-10?IR=T
